@@ -1,7 +1,7 @@
 
 # PathMatcher
 ## Intro
-The goal of the Tool to get a list of files from two diffrent Vendors and match them to eliminate duplica , etc!
+The goal of the Tool to get a list of files from two diffrent Vendors and match them to eliminate duplica and to merge diffrent names from diffrent Vendors  , etc!
 
 ## Example Input:
 
