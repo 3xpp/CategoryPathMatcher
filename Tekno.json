@@ -1,0 +1,197 @@
+[
+  {
+    "supplier_old_cat_id": "1",
+    "supplier_cat_path": "Bürotechnik",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "2",
+    "supplier_cat_path": "Portable Audio und Car-HiFi",
+    "mioga_old_cat_id": "5988"
+  },
+  {
+    "supplier_old_cat_id": "3",
+    "supplier_cat_path": "Druckereierzeugnisse",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "4",
+    "supplier_cat_path": "elektonische Freizeitgeräte",
+    "mioga_old_cat_id": "5988"
+  },
+  {
+    "supplier_old_cat_id": "5",
+    "supplier_cat_path": "Lebensmittel",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "6",
+    "supplier_cat_path": "Accessoires für Küche, Bad u. Wohnung",
+    "mioga_old_cat_id": "5961"
+  },
+  {
+    "supplier_old_cat_id": "7",
+    "supplier_cat_path": "Büromöbel",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "8",
+    "supplier_cat_path": "Organisation",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "9",
+    "supplier_cat_path": "Entsorgung",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "10",
+    "supplier_cat_path": "Sport und Fitness",
+    "mioga_old_cat_id": "6006"
+  },
+  {
+    "supplier_old_cat_id": "11",
+    "supplier_cat_path": "Party- u. sonstige Dekorationsartikel",
+    "mioga_old_cat_id": "6008"
+  },
+  {
+    "supplier_old_cat_id": "12",
+    "supplier_cat_path": "Werkstatt, Lager",
+    "mioga_old_cat_id": "6000"
+  },
+  {
+    "supplier_old_cat_id": "13",
+    "supplier_cat_path": "Kommunikations- u. Navigationstechnik",
+    "mioga_old_cat_id": "6002"
+  },
+  {
+    "supplier_old_cat_id": "14",
+    "supplier_cat_path": "Sicherheit",
+    "mioga_old_cat_id": "5996"
+  },
+  {
+    "supplier_old_cat_id": "15",
+    "supplier_cat_path": "Tinte/Toner",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "16",
+    "supplier_cat_path": "Arbeitsschutz",
+    "mioga_old_cat_id": "5996"
+  },
+  {
+    "supplier_old_cat_id": "17",
+    "supplier_cat_path": "Blöcke u. Zuschnitte",
+    "mioga_old_cat_id": "5998"
+  },
+  {
+    "supplier_old_cat_id": "18",
+    "supplier_cat_path": "Etiketten",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "19",
+    "supplier_cat_path": "EDV-Technik",
+    "mioga_old_cat_id": "6002"
+  },
+  {
+    "supplier_old_cat_id": "20",
+    "supplier_cat_path": "Verpacken u. Versenden",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "21",
+    "supplier_cat_path": "Leder- u. Täschnerwaren",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "22",
+    "supplier_cat_path": "Drucker, Kopierer",
+    "mioga_old_cat_id": "6002"
+  },
+  {
+    "supplier_old_cat_id": "23",
+    "supplier_cat_path": "Tierbedarf",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "24",
+    "supplier_cat_path": "Formular- u. Geschäftsbücher",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "25",
+    "supplier_cat_path": "TV und Heimkino",
+    "mioga_old_cat_id": "5988"
+  },
+  {
+    "supplier_old_cat_id": "26",
+    "supplier_cat_path": "Haftmarker u. Haftnotizen",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "27",
+    "supplier_cat_path": "elektronische Spiele",
+    "mioga_old_cat_id": "6002"
+  },
+  {
+    "supplier_old_cat_id": "28",
+    "supplier_cat_path": "Ablage u. Ordnung",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "29",
+    "supplier_cat_path": "Erste-Hilfe",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "30",
+    "supplier_cat_path": "Formatpapier",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "31",
+    "supplier_cat_path": "Hygieneartikel, -papiere",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "32",
+    "supplier_cat_path": "Reinigung",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "33",
+    "supplier_cat_path": "Fototechnik",
+    "mioga_old_cat_id": "6012"
+  },
+  {
+    "supplier_old_cat_id": "34",
+    "supplier_cat_path": "Elektroinst., Batterien, Leuchten, Haush",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_old_cat_id": "35",
+    "supplier_cat_path": "Spielwaren",
+    "mioga_old_cat_id": "5407"
+  },
+  {
+    "supplier_old_cat_id": "36",
+    "supplier_cat_path": "Schreibutensilien",
+    "mioga_old_cat_id": "6010"
+  },
+  {
+    "supplier_old_cat_id": "37",
+    "supplier_cat_path": "Garten- und Außenmöbel",
+    "mioga_old_cat_id": "6016"
+  },
+  {
+    "supplier_old_cat_id": "38",
+    "supplier_cat_path": "Sanitäreinrichtung",
+    "mioga_old_cat_id": "6027"
+  },
+  {
+    "supplier_old_cat_id": "39",
+    "supplier_cat_path": "Einwegkunststoff-Relevante Produkte",
+    "mioga_old_cat_id": "0"
+  }
+]

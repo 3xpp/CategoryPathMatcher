@@ -1,0 +1,793 @@
+[
+    {
+        "ID": "6",
+        "Category1": "Haushaltsgeräte",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "88",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Waschmaschinen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "89",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Wäschetrockner",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "90",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Waschtrockner",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "91",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kühl- & Gefrierkombis",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "93",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kühlschränke",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "95",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Gefrierschränke",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "6039",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Gefriertruhen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "96",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Backöfen/Herde",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "991",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Mikrowellen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "501",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kochfelder",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "994",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Dunstabzugshauben",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "990",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Geschirrspüler",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1031",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Küchen-Kleingeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1028",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kaffeegenuss",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1029",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Staubsauger",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1033",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Beauty & Wellness",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Sonstige Haushaltsgeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5426",
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "6027",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Haustechnik",
+        "Category4": null
+    },
+    {
+        "ID": "5448",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Kühl- & Gefrierschränke",
+        "Category4": null
+    },
+    {
+        "ID": "5449",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Bodenpflege",
+        "Category4": null
+    },
+    {
+        "ID": "6026",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Dometic",
+        "Category4": null
+    },
+    {
+        "ID": "5450",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Geschirrspüler",
+        "Category4": null
+    },
+    {
+        "ID": "5430",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Kochgeräte",
+        "Category4": null
+    },
+    {
+        "ID": "5451",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Kleingeräte",
+        "Category4": null
+    },
+    {
+        "ID": "5447",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Waschpflege",
+        "Category4": null
+    },
+    {
+        "ID": "5621",
+        "Category1": "",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": "Sonstige",
+        "Category4": null
+    },
+    {
+        "ID": "1320",
+        "Category1": "Gewerbegeräte",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1323",
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbewäschepflege",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "6040",
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbespülen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1322",
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbekühlgeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1321",
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbegefriergeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "3",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "17",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "TV & Projektoren",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "21",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Home Entertainment",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "929",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Tragbare Geräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "22",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "SAT & Antennentechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1391",
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Sonstige",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "8",
+        "Category1": "Heimwerken & Garten",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "145",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Hämmern & Meißeln",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "144",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Schrauben & Bohren",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "173",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Trennen & Schleifen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "148",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Sägen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "174",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Hobeln, Tackern & Fräsen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "540",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Sonstige Werkzeuge",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "232",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Heißluftgebläse",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1397",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Nass- & Trockensauger",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "278",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Messgeräte & Ortung",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "283",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Druckluftgeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1399",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Notstromerzeuger",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "3200",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Akkus & Ladegeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "543",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Zubehör",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5408",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Grill",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "917",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Gartengeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5937",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Gartenmöbel",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1122",
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Zubehör Garten",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "918",
+        "Category1": "Haustechnik",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1103",
+        "Category1": "Haustechnik",
+        "Category2": "Raumheizgeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1104",
+        "Category1": "Haustechnik",
+        "Category2": "Warmwassergeräte",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1026",
+        "Category1": "Haustechnik",
+        "Category2": "Klima & Lüftung",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1106",
+        "Category1": "Haustechnik",
+        "Category2": "Solar & Photovoltaik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1105",
+        "Category1": "Haustechnik",
+        "Category2": "Wärmepumpen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "6041",
+        "Category1": "Haustechnik",
+        "Category2": "Ladestationen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "2750",
+        "Category1": "Haustechnik",
+        "Category2": "Sicherheitstechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1109",
+        "Category1": "Haustechnik",
+        "Category2": "Ersatzteile & Zubehör",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "233",
+        "Category1": "Installation",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5040",
+        "Category1": "Installation",
+        "Category2": "Merten",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "3440",
+        "Category1": "Installation",
+        "Category2": "Berker",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "4609",
+        "Category1": "Installation",
+        "Category2": "Jung",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5286",
+        "Category1": "Installation",
+        "Category2": "Siedle",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "4149",
+        "Category1": "Installation",
+        "Category2": "Gira",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "3786",
+        "Category1": "Installation",
+        "Category2": "Busch-Jaeger",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "919",
+        "Category1": "Foto & Optik",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "951",
+        "Category1": "Foto & Optik",
+        "Category2": "Kameras & Camcorder",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "952",
+        "Category1": "Foto & Optik",
+        "Category2": "Ferngläser",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "954",
+        "Category1": "Foto & Optik",
+        "Category2": "Sonstiges & Zubehör",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "7",
+        "Category1": "Lampen & Leuchten",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "591",
+        "Category1": "Computer & Software",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "601",
+        "Category1": "Computer & Software",
+        "Category2": "Desktop-PC",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "600",
+        "Category1": "Computer & Software",
+        "Category2": "Notebooks & Tablets",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "598",
+        "Category1": "Computer & Software",
+        "Category2": "Monitore",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "593",
+        "Category1": "Computer & Software",
+        "Category2": "Drucker & Scanner",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "689",
+        "Category1": "Computer & Software",
+        "Category2": "Zubehör & Ersatzteile",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "3396",
+        "Category1": "Computer & Software",
+        "Category2": "Sonstiges",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1194",
+        "Category1": "Büro & Kommunikation",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1296",
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Bürobedarf",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1199",
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Telefonie",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1198",
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Navigation & Autoradios",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1197",
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Netzwerktechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1172",
+        "Category1": "Outdoor & Reisen",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1173",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Rucksäcke",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5623",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Koffer",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1183",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Trolley",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1182",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Rollenreisetaschen",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1403",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Bekleidung",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1404",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Bergsteigen & Klettern",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5930",
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Camping & Freizeit",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "5949",
+        "Category1": "Verschiedenes",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "569",
+        "Category1": "Restposten",
+        "Category2": null,
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1125",
+        "Category1": "Restposten",
+        "Category2": "Beispiele ENKV",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1128",
+        "Category1": "Restposten",
+        "Category2": "Haushaltsgeräte Klein",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1126",
+        "Category1": "Restposten",
+        "Category2": "Camcorder",
+        "Category3": "Foto & Optik",
+        "Category4": null
+    },
+    {
+        "ID": "1136",
+        "Category1": "Restposten",
+        "Category2": "PC & Notebooks",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1131",
+        "Category1": "Restposten",
+        "Category2": "Installation & Montage",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1135",
+        "Category1": "Restposten",
+        "Category2": "Mobilfunk & Navigation",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1130",
+        "Category1": "Restposten",
+        "Category2": "EIB-Gebäude & Systemtechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1134",
+        "Category1": "Restposten",
+        "Category2": "Garten",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1137",
+        "Category1": "Restposten",
+        "Category2": "Bürotechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1127",
+        "Category1": "Restposten",
+        "Category2": "Haushaltsgeräte Groß",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1133",
+        "Category1": "Restposten",
+        "Category2": "Werkzeuge",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1132",
+        "Category1": "Restposten",
+        "Category2": "Haustechnik",
+        "Category3": null,
+        "Category4": null
+    },
+    {
+        "ID": "1129",
+        "Category1": "Restposten",
+        "Category2": "Baby- & Kleinkindhelfer",
+        "Category3": null,
+        "Category4": null
+    }
+]

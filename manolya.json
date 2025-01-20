@@ -1,0 +1,432 @@
+[
+  {
+    "supplier_cat_path": "Geschirrspüler Standgerät 45 cm",
+    "supplier_old_cat_id": "1",
+    "mioga_old_cat_id": "997"
+  },
+  {
+    "supplier_cat_path": "Espressomaschinen",
+    "supplier_old_cat_id": "2",
+    "mioga_old_cat_id": "1028"
+  },
+  {
+    "supplier_cat_path": "Decken & Plaids",
+    "supplier_old_cat_id": "3",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kochfeld Glaskeramik",
+    "supplier_old_cat_id": "4",
+    "mioga_old_cat_id": "982"
+  },
+  {
+    "supplier_cat_path": "Klimaanlagen",
+    "supplier_old_cat_id": "5",
+    "mioga_old_cat_id": "1102"
+  },
+  {
+    "supplier_cat_path": "Elektrogrill",
+    "supplier_old_cat_id": "6",
+    "mioga_old_cat_id": "5409"
+  },
+  {
+    "supplier_cat_path": "Waschtrockner Stand/Unterbau",
+    "supplier_old_cat_id": "7",
+    "mioga_old_cat_id": "958"
+  },
+  {
+    "supplier_cat_path": "Wasserkocher",
+    "supplier_old_cat_id": "8",
+    "mioga_old_cat_id": "958"
+  },
+  {
+    "supplier_cat_path": "Gefrierschrank (Einbau)",
+    "supplier_old_cat_id": "9",
+    "mioga_old_cat_id": "966"
+  },
+  {
+    "supplier_cat_path": "Bügeleisen",
+    "supplier_old_cat_id": "10",
+    "mioga_old_cat_id": "1051"
+  },
+  {
+    "supplier_cat_path": "TV LCD/LED 140cm (55\")",
+    "supplier_old_cat_id": "11",
+    "mioga_old_cat_id": "646"
+  },
+  {
+    "supplier_cat_path": "Backofen Elektro",
+    "supplier_old_cat_id": "12",
+    "mioga_old_cat_id": "975"
+  },
+  {
+    "supplier_cat_path": "Weinkühlschrank (Stand)",
+    "supplier_old_cat_id": "13",
+    "mioga_old_cat_id": "968"
+  },
+  {
+    "supplier_cat_path": "Camcorder Action",
+    "supplier_old_cat_id": "14",
+    "mioga_old_cat_id": "950"
+  },
+  {
+    "supplier_cat_path": "Bestecke",
+    "supplier_old_cat_id": "15",
+    "mioga_old_cat_id": "1062"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Unterbaufähig 60 cm",
+    "supplier_old_cat_id": "16",
+    "mioga_old_cat_id": "3407"
+  },
+  {
+    "supplier_cat_path": "Zubehör TV-Wandhalterung",
+    "supplier_old_cat_id": "17",
+    "mioga_old_cat_id": "5619"
+  },
+  {
+    "supplier_cat_path": "Bettwäsche",
+    "supplier_old_cat_id": "18",
+    "mioga_old_cat_id": "1435"
+  },
+  {
+    "supplier_cat_path": "Bettdecken",
+    "supplier_old_cat_id": "19",
+    "mioga_old_cat_id": "1435"
+  },
+  {
+    "supplier_cat_path": "Verstärker",
+    "supplier_old_cat_id": "20",
+    "mioga_old_cat_id": "1387"
+  },
+  {
+    "supplier_cat_path": "Kühlschrank (Stand)",
+    "supplier_old_cat_id": "21",
+    "mioga_old_cat_id": "961"
+  },
+  {
+    "supplier_cat_path": "Systemkameras",
+    "supplier_old_cat_id": "22",
+    "mioga_old_cat_id": "1207"
+  },
+  {
+    "supplier_cat_path": "Spielekonsolen",
+    "supplier_old_cat_id": "23",
+    "mioga_old_cat_id": "619"
+  },
+  {
+    "supplier_cat_path": "Kühl-/Gefrier Kombi (Stand)",
+    "supplier_old_cat_id": "24",
+    "mioga_old_cat_id": "497"
+  },
+  {
+    "supplier_cat_path": "TV-Möbel (klein)",
+    "supplier_old_cat_id": "25",
+    "mioga_old_cat_id": "1193"
+  },
+  {
+    "supplier_cat_path": "Kissen",
+    "supplier_old_cat_id": "26",
+    "mioga_old_cat_id": "2518"
+  },
+  {
+    "supplier_cat_path": "Waschtrockner Standgerät",
+    "supplier_old_cat_id": "27",
+    "mioga_old_cat_id": "958"
+  },
+  {
+    "supplier_cat_path": "Bluetooth Lautsprecher",
+    "supplier_old_cat_id": "28",
+    "mioga_old_cat_id": "927"
+  },
+  {
+    "supplier_cat_path": "Dunstabzugshaube Unterbau",
+    "supplier_old_cat_id": "29",
+    "mioga_old_cat_id": "1012"
+  },
+  {
+    "supplier_cat_path": "Mixer",
+    "supplier_old_cat_id": "30",
+    "mioga_old_cat_id": "1056"
+  },
+  {
+    "supplier_cat_path": "Dunstabzugshaube Insel",
+    "supplier_old_cat_id": "31",
+    "mioga_old_cat_id": "1008"
+  },
+  {
+    "supplier_cat_path": "Dunstabzugshaube Lüfterbaustein",
+    "supplier_old_cat_id": "32",
+    "mioga_old_cat_id": "1013"
+  },
+  {
+    "supplier_cat_path": "Wäschetrockner (Kondens) Stand/Unterb.",
+    "supplier_old_cat_id": "33",
+    "mioga_old_cat_id": "956"
+  },
+  {
+    "supplier_cat_path": "Dunstabzugshaube Flachschirm",
+    "supplier_old_cat_id": "34",
+    "mioga_old_cat_id": "1011"
+  },
+  {
+    "supplier_cat_path": "Elektroherd (Stand) Glaskeramik",
+    "supplier_old_cat_id": "35",
+    "mioga_old_cat_id": "494"
+  },
+  {
+    "supplier_cat_path": "Töpfe",
+    "supplier_old_cat_id": "36",
+    "mioga_old_cat_id": "1061"
+  },
+  {
+    "supplier_cat_path": "Backofen + Mikrowelle Elektro",
+    "supplier_old_cat_id": "37",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kochfeld Induktion",
+    "supplier_old_cat_id": "38",
+    "mioga_old_cat_id": "983"
+  },
+  {
+    "supplier_cat_path": "Geschirrservice",
+    "supplier_old_cat_id": "39",
+    "mioga_old_cat_id": "1343"
+  },
+  {
+    "supplier_cat_path": "Elektroherd (Einbau) Glaskeramik",
+    "supplier_old_cat_id": "40",
+    "mioga_old_cat_id": "971"
+  },
+  {
+    "supplier_cat_path": "Receiver",
+    "supplier_old_cat_id": "41",
+    "mioga_old_cat_id": "1187"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Standgerät 60 cm",
+    "supplier_old_cat_id": "42",
+    "mioga_old_cat_id": "997"
+  },
+  {
+    "supplier_cat_path": "Elektrorasierer",
+    "supplier_old_cat_id": "43",
+    "mioga_old_cat_id": "1066"
+  },
+  {
+    "supplier_cat_path": "Kühlschrank (Einbau)",
+    "supplier_old_cat_id": "44",
+    "mioga_old_cat_id": "962"
+  },
+  {
+    "supplier_cat_path": "Küchenmaschinen",
+    "supplier_old_cat_id": "45",
+    "mioga_old_cat_id": "1055"
+  },
+  {
+    "supplier_cat_path": "Drohnen",
+    "supplier_old_cat_id": "46",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Elektroherd (Einbau) Induktion",
+    "supplier_old_cat_id": "47",
+    "mioga_old_cat_id": "971"
+  },
+  {
+    "supplier_cat_path": "Waschmaschine Stand/Unterb.",
+    "supplier_old_cat_id": "48",
+    "mioga_old_cat_id": "500"
+  },
+  {
+    "supplier_cat_path": "Stand-Side-by-Side",
+    "supplier_old_cat_id": "49",
+    "mioga_old_cat_id": "92"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Vollintegrierbar 45 cm",
+    "supplier_old_cat_id": "50",
+    "mioga_old_cat_id": "999"
+  },
+  {
+    "supplier_cat_path": "Waschmaschine Toplader",
+    "supplier_old_cat_id": "51",
+    "mioga_old_cat_id": "955"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Vollintegrierbar 60 cm",
+    "supplier_old_cat_id": "52",
+    "mioga_old_cat_id": "999"
+  },
+  {
+    "supplier_cat_path": "Ventilatoren",
+    "supplier_old_cat_id": "53",
+    "mioga_old_cat_id": "1101"
+  },
+  {
+    "supplier_cat_path": "Gefrierschrank (Stand)",
+    "supplier_old_cat_id": "54",
+    "mioga_old_cat_id": "495"
+  },
+  {
+    "supplier_cat_path": "Staubsauger",
+    "supplier_old_cat_id": "55",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Dunstabzugshaube Kamin",
+    "supplier_old_cat_id": "56",
+    "mioga_old_cat_id": "1006"
+  },
+  {
+    "supplier_cat_path": "TV LCD/LED 165cm (65\")",
+    "supplier_old_cat_id": "57",
+    "mioga_old_cat_id": "920"
+  },
+  {
+    "supplier_cat_path": "Kühl-/Gefrier Kombi (Einbau)",
+    "supplier_old_cat_id": "58",
+    "mioga_old_cat_id": "960"
+  },
+  {
+    "supplier_cat_path": "Rasenmäher",
+    "supplier_old_cat_id": "59",
+    "mioga_old_cat_id": "1117"
+  },
+  {
+    "supplier_cat_path": "Mikrowellen",
+    "supplier_old_cat_id": "60",
+    "mioga_old_cat_id": "1001"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Integrierbar 60 cm",
+    "supplier_old_cat_id": "61",
+    "mioga_old_cat_id": "998"
+  },
+  {
+    "supplier_cat_path": "Fritteusen",
+    "supplier_old_cat_id": "62",
+    "mioga_old_cat_id": "1058"
+  },
+  {
+    "supplier_cat_path": "Wäschetrockner (Abluft) Stand/Unterbau",
+    "supplier_old_cat_id": "65",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "WLAN Lautsprecher",
+    "supplier_old_cat_id": "66",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kontaktgrill",
+    "supplier_old_cat_id": "67",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Standlautsprecher",
+    "supplier_old_cat_id": "68",
+    "mioga_old_cat_id": "927"
+  },
+  {
+    "supplier_cat_path": "Kopfhörer drahtlos",
+    "supplier_old_cat_id": "69",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "TV LCD/LED 109cm (43\")",
+    "supplier_old_cat_id": "70",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kochfeld mit Dunstabzug",
+    "supplier_old_cat_id": "71",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "TV LCD/LED 107cm (42\")",
+    "supplier_old_cat_id": "72",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Integrierbar 45 cm",
+    "supplier_old_cat_id": "73",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kaffeemaschinen",
+    "supplier_old_cat_id": "74",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Soundbars",
+    "supplier_old_cat_id": "75",
+    "mioga_old_cat_id": "928"
+  },
+  {
+    "supplier_cat_path": "Mobile Klimaanlagen",
+    "supplier_old_cat_id": "76",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Mobile Klimaanlage",
+    "supplier_old_cat_id": "77",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "TV LCD/LED  82cm (32\")",
+    "supplier_old_cat_id": "78",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kühlschrank (Stand) Doppeltür",
+    "supplier_old_cat_id": "79",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Multikocher",
+    "supplier_old_cat_id": "80",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kaffeemühlen",
+    "supplier_old_cat_id": "81",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Elektroherd (Stand) Induktion",
+    "supplier_old_cat_id": "82",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Kochfeld Gas",
+    "supplier_old_cat_id": "83",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Geschirrspüler Unterbaufähig 45 cm",
+    "supplier_old_cat_id": "84",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Luftreiniger",
+    "supplier_old_cat_id": "85",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Hairstyler",
+    "supplier_old_cat_id": "86",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Plattenspieler",
+    "supplier_old_cat_id": "87",
+    "mioga_old_cat_id": "0"
+  },
+  {
+    "supplier_cat_path": "Eismaschinen",
+    "supplier_old_cat_id": "88",
+    "mioga_old_cat_id": "0"
+  }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "supplier_old_cat_id": "6",
+        "supplier_cat_path": "Subwoofer",
+        "mioga_old_cat_id": 5988,
+        "Category1": "Haushaltsgeräte",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "88",
+        "supplier_cat_path": "Netzwerk -Wireless Router/Accesspoint-",
+        "mioga_old_cat_id": 5988,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Waschmaschinen"
+    },
+    {
+        "supplier_old_cat_id": "89",
+        "supplier_cat_path": "Druckerpapier-Inkjet Rollenware",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Wäschetrockner"
+    },
+    {
+        "supplier_old_cat_id": "90",
+        "supplier_cat_path": "FS LCD/LED Public Display",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Waschtrockner"
+    },
+    {
+        "supplier_old_cat_id": "91",
+        "supplier_cat_path": "Zubehör-Kits",
+        "mioga_old_cat_id": 6002,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kühl- & Gefrierkombis"
+    },
+    {
+        "supplier_old_cat_id": "93",
+        "supplier_cat_path": "Teleskope + Zubehör",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kühlschränke"
+    },
+    {
+        "supplier_old_cat_id": "95",
+        "supplier_cat_path": "Schutzhüllen -Kommunikation-",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Gefrierschränke"
+    },
+    {
+        "supplier_old_cat_id": "96",
+        "supplier_cat_path": "Küche & Kaufladen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Backöfen/Herde"
+    },
+    {
+        "supplier_old_cat_id": "991",
+        "supplier_cat_path": "Ladeger?te - Action Camcorder",
+        "mioga_old_cat_id": 1222,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Mikrowellen"
+    },
+    {
+        "supplier_old_cat_id": "501",
+        "supplier_cat_path": "SD-Card",
+        "mioga_old_cat_id": 6002,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kochfelder"
+    },
+    {
+        "supplier_old_cat_id": "994",
+        "supplier_cat_path": "Zubeh?r Staubsauger",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Dunstabzugshauben"
+    },
+    {
+        "supplier_old_cat_id": "990",
+        "supplier_cat_path": "Haushalt, Garten & Spielk?chen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Geschirrspüler"
+    },
+    {
+        "supplier_old_cat_id": "1031",
+        "supplier_cat_path": "Taschen & H?llen - Laptop / Notebook",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Küchen-Kleingeräte"
+    },
+    {
+        "supplier_old_cat_id": "1028",
+        "supplier_cat_path": "Zubeh?r Kochen und Backen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Kaffeegenuss"
+    },
+    {
+        "supplier_old_cat_id": "1029",
+        "supplier_cat_path": "Zubeh?r-Kits",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Staubsauger"
+    },
+    {
+        "supplier_old_cat_id": "1033",
+        "supplier_cat_path": "Netzteile -Ger?te-",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Beauty & Wellness"
+    },
+    {
+        "supplier_old_cat_id": "5",
+        "supplier_cat_path": "Fotopapier -Blattware-",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Haushaltsgeräte",
+        "Category2": "Sonstige Haushaltsgeräte"
+    },
+    {
+        "supplier_old_cat_id": "1320",
+        "supplier_cat_path": "Eingabegeräte - Tablet",
+        "mioga_old_cat_id": 5939,
+        "Category1": "Gewerbegeräte",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "1323",
+        "supplier_cat_path": "Kamera-Originalzubehör - SLR/Systemkameras",
+        "mioga_old_cat_id": 0,
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbewäschepflege"
+    },
+    {
+        "supplier_old_cat_id": "1322",
+        "supplier_cat_path": "Wäschetrockner -Kondens-",
+        "mioga_old_cat_id": 0,
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbekühlgeräte"
+    },
+    {
+        "supplier_old_cat_id": "1321",
+        "supplier_cat_path": "Ladegeräte -Universal-",
+        "mioga_old_cat_id": 1222,
+        "Category1": "Gewerbegeräte",
+        "Category2": "Gewerbegefriergeräte"
+    },
+    {
+        "supplier_old_cat_id": "3",
+        "supplier_cat_path": "Sonstiges Objektivzubehör",
+        "mioga_old_cat_id": 6012,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "17",
+        "supplier_cat_path": "Passbild- und Portraitmappen",
+        "mioga_old_cat_id": 6012,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "TV & Projektoren"
+    },
+    {
+        "supplier_old_cat_id": "21",
+        "supplier_cat_path": "CD-RW 12cm",
+        "mioga_old_cat_id": 5988,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Home Entertainment"
+    },
+    {
+        "supplier_old_cat_id": "929",
+        "supplier_cat_path": "Beschriftungsger?te",
+        "mioga_old_cat_id": 1297,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Tragbare Geräte"
+    },
+    {
+        "supplier_old_cat_id": "22",
+        "supplier_cat_path": "Zahnpflege",
+        "mioga_old_cat_id": 6006,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "SAT & Antennentechnik"
+    },
+    {
+        "supplier_old_cat_id": "1391",
+        "supplier_cat_path": "ZubehÃ¶r Wearables",
+        "mioga_old_cat_id": 0,
+        "Category1": "Unterhaltungselektronik",
+        "Category2": "Sonstige"
+    },
+    {
+        "supplier_old_cat_id": "8",
+        "supplier_cat_path": "Digitalprojektoren - Lampe",
+        "mioga_old_cat_id": 6012,
+        "Category1": "Heimwerken & Garten",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "145",
+        "supplier_cat_path": "Scanner -Film/Dia/Foto-",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Hämmern & Meißeln"
+    },
+    {
+        "supplier_old_cat_id": "144",
+        "supplier_cat_path": "Lesehilfen",
+        "mioga_old_cat_id": 6008,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Schrauben & Bohren"
+    },
+    {
+        "supplier_old_cat_id": "173",
+        "supplier_cat_path": "LED-Drucker",
+        "mioga_old_cat_id": 6002,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Trennen & Schleifen"
+    },
+    {
+        "supplier_old_cat_id": "148",
+        "supplier_cat_path": "Tastaturen PC -kabellos-",
+        "mioga_old_cat_id": 6002,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Sägen"
+    },
+    {
+        "supplier_old_cat_id": "174",
+        "supplier_cat_path": "Diktiergeräte digital Zubehör",
+        "mioga_old_cat_id": 6010,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Hobeln, Tackern & Fräsen"
+    },
+    {
+        "supplier_old_cat_id": "540",
+        "supplier_cat_path": "Autovideosysteme",
+        "mioga_old_cat_id": 5988,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Sonstige Werkzeuge"
+    },
+    {
+        "supplier_old_cat_id": "232",
+        "supplier_cat_path": "Gefriertruhen",
+        "mioga_old_cat_id": 95,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Heißluftgebläse"
+    },
+    {
+        "supplier_old_cat_id": "1397",
+        "supplier_cat_path": "Reinigung und Pflege ElektrogerÃ¤te",
+        "mioga_old_cat_id": 0,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Nass- & Trockensauger"
+    },
+    {
+        "supplier_old_cat_id": "278",
+        "supplier_cat_path": "Pocket Camcorder",
+        "mioga_old_cat_id": 6008,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Messgeräte & Ortung"
+    },
+    {
+        "supplier_old_cat_id": "283",
+        "supplier_cat_path": "Zitruspressen",
+        "mioga_old_cat_id": 5961,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Druckluftgeräte"
+    },
+    {
+        "supplier_old_cat_id": "1399",
+        "supplier_cat_path": "Smartphone & Tablet - Foto ZubehÃ¶r",
+        "mioga_old_cat_id": 0,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Notstromerzeuger"
+    },
+    {
+        "supplier_old_cat_id": "543",
+        "supplier_cat_path": "App gesteuertes Zubehör Heimvernetzung",
+        "mioga_old_cat_id": 5988,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Zubehör"
+    },
+    {
+        "supplier_old_cat_id": "917",
+        "supplier_cat_path": "Zubeh?r Trennen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Heimwerken & Garten",
+        "Category2": "Gartengeräte"
+    },
+    {
+        "supplier_old_cat_id": "918",
+        "supplier_cat_path": "Blaster & Zubeh?r",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "1103",
+        "supplier_cat_path": "Foodcontainer / Speisebeh?lter",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": "Raumheizgeräte"
+    },
+    {
+        "supplier_old_cat_id": "1104",
+        "supplier_cat_path": "Sonstige Eingabeger?te Spielecomputer",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": "Warmwassergeräte"
+    },
+    {
+        "supplier_old_cat_id": "1026",
+        "supplier_cat_path": "Ladeger?te - Werkzeuge",
+        "mioga_old_cat_id": 1222,
+        "Category1": "Haustechnik",
+        "Category2": "Klima & Lüftung"
+    },
+    {
+        "supplier_old_cat_id": "1106",
+        "supplier_cat_path": "Smartphone & Tablet - Foto Zubeh?r",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": "Solar & Photovoltaik"
+    },
+    {
+        "supplier_old_cat_id": "1105",
+        "supplier_cat_path": "Unterwassergeh?use -Zubeh?r-",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": "Wärmepumpen"
+    },
+    {
+        "supplier_old_cat_id": "1109",
+        "supplier_cat_path": "Elektronenblitzger?te Studio",
+        "mioga_old_cat_id": 0,
+        "Category1": "Haustechnik",
+        "Category2": "Ersatzteile & Zubehör"
+    },
+    {
+        "supplier_old_cat_id": "233",
+        "supplier_cat_path": "Batterien",
+        "mioga_old_cat_id": 0,
+        "Category1": "Installation",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "919",
+        "supplier_cat_path": "Repro-Ger?te und Zubeh?r",
+        "mioga_old_cat_id": 0,
+        "Category1": "Foto & Optik",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "951",
+        "supplier_cat_path": "Taschen & H?llen - Tablet",
+        "mioga_old_cat_id": 0,
+        "Category1": "Foto & Optik",
+        "Category2": "Kameras & Camcorder"
+    },
+    {
+        "supplier_old_cat_id": "952",
+        "supplier_cat_path": "Sport Optics und Zubeh?r",
+        "mioga_old_cat_id": 0,
+        "Category1": "Foto & Optik",
+        "Category2": "Ferngläser"
+    },
+    {
+        "supplier_old_cat_id": "954",
+        "supplier_cat_path": "Zubeh?r Wetterstationen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Foto & Optik",
+        "Category2": "Sonstiges & Zubehör"
+    },
+    {
+        "supplier_old_cat_id": "7",
+        "supplier_cat_path": "Speicherkartenlesegeräte",
+        "mioga_old_cat_id": 6002,
+        "Category1": "Lampen & Leuchten",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "591",
+        "supplier_cat_path": "Solarleuchten - Außen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Computer & Software",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "601",
+        "supplier_cat_path": "Smartbänder",
+        "mioga_old_cat_id": 0,
+        "Category1": "Computer & Software",
+        "Category2": "Desktop-PC"
+    },
+    {
+        "supplier_old_cat_id": "600",
+        "supplier_cat_path": "Smartwatches",
+        "mioga_old_cat_id": 6006,
+        "Category1": "Computer & Software",
+        "Category2": "Notebooks & Tablets"
+    },
+    {
+        "supplier_old_cat_id": "598",
+        "supplier_cat_path": "Glühlampen / Leuchtmittel",
+        "mioga_old_cat_id": 0,
+        "Category1": "Computer & Software",
+        "Category2": "Monitore"
+    },
+    {
+        "supplier_old_cat_id": "593",
+        "supplier_cat_path": "Tisch- & Stehleuchten - Innen",
+        "mioga_old_cat_id": 7,
+        "Category1": "Computer & Software",
+        "Category2": "Drucker & Scanner"
+    },
+    {
+        "supplier_old_cat_id": "689",
+        "supplier_cat_path": "Taschen & Rucksäcke - Foto / Video",
+        "mioga_old_cat_id": 1208,
+        "Category1": "Computer & Software",
+        "Category2": "Zubehör & Ersatzteile"
+    },
+    {
+        "supplier_old_cat_id": "1194",
+        "supplier_cat_path": "Zubehör - Drohnen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Büro & Kommunikation",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "1296",
+        "supplier_cat_path": "Fahrzeuge & Zubehör",
+        "mioga_old_cat_id": 0,
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Bürobedarf"
+    },
+    {
+        "supplier_old_cat_id": "1199",
+        "supplier_cat_path": "Zubehör Digitalprojektion",
+        "mioga_old_cat_id": 0,
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Telefonie"
+    },
+    {
+        "supplier_old_cat_id": "1198",
+        "supplier_cat_path": "PMR Sprechfunkgeräte",
+        "mioga_old_cat_id": 0,
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Navigation & Autoradios"
+    },
+    {
+        "supplier_old_cat_id": "1197",
+        "supplier_cat_path": "Zubehör Faxgeräte",
+        "mioga_old_cat_id": 0,
+        "Category1": "Büro & Kommunikation",
+        "Category2": "Netzwerktechnik"
+    },
+    {
+        "supplier_old_cat_id": "1172",
+        "supplier_cat_path": "Zubehör Stabmixer",
+        "mioga_old_cat_id": 0,
+        "Category1": "Outdoor & Reisen",
+        "Category2": null
+    },
+    {
+        "supplier_old_cat_id": "1173",
+        "supplier_cat_path": "Bügeleisen",
+        "mioga_old_cat_id": 1051,
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Rucksäcke"
+    },
+    {
+        "supplier_old_cat_id": "1183",
+        "supplier_cat_path": "Druckerzubehör",
+        "mioga_old_cat_id": 593,
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Trolley"
+    },
+    {
+        "supplier_old_cat_id": "1182",
+        "supplier_cat_path": "Schraubenschlüssel, Steckschlüsselsätze",
+        "mioga_old_cat_id": 0,
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Rollenreisetaschen"
+    },
+    {
+        "supplier_old_cat_id": "1403",
+        "supplier_cat_path": "ZubehÃ¶r - Hausautomation",
+        "mioga_old_cat_id": 0,
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Bekleidung"
+    },
+    {
+        "supplier_old_cat_id": "1404",
+        "supplier_cat_path": "Haushalt, Garten & SpielkÃ¼chen",
+        "mioga_old_cat_id": 0,
+        "Category1": "Outdoor & Reisen",
+        "Category2": "Bergsteigen & Klettern"
+    },
+    {
+        "supplier_old_cat_id": "569",
+        "supplier_cat_path": "Zubehör Stabmixer",
+        "mioga_old_cat_id": 5961,
+        "Category1": "Restposten",
+        "Category2": null
+    }
+]
